@@ -30,7 +30,7 @@ class UnsplashImageGenerator(BaseImageGenerator):
             return []
 
 # ===================== 🔐 ACCESS KEY ===================== #
-UNSPLASH_ACCESS_KEY = "HoyslQw_k6vhALjtEiNJyGPYHS0dPApQ99cftcMWTBM"  # Replace with your actual key
+UNSPLASH_ACCESS_KEY = "HoyslQw_k6vhALjtEiNJyGPYHS0dPApQ99cftcMWTBM"  
 
 # ===================== 🖼 UI ===================== #
 st.markdown("""
